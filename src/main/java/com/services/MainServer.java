@@ -6,5 +6,6 @@ public class MainServer {
 	{
 		System.out.println("Main Server Initiated");
 		System.out.println("changes");
+		System.out.println("commit check");
 	}
 }
